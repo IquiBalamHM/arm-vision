@@ -1,0 +1,8 @@
+prefix=/home/pev/Documents/Arm_vision/catkin_ws/devel/.private/my_pcl_tutorial
+
+Name: my_pcl_tutorial
+Description: Description of my_pcl_tutorial
+Version: 0.0.0
+Cflags: -I/home/pev/Documents/Arm_vision/catkin_ws/devel/.private/my_pcl_tutorial/include -I/home/pev/Documents/Arm_vision/catkin_ws/src/my_pcl_tutorial/include
+Libs: -L${prefix}/lib 
+Requires: pcl_conversions pcl_ros roscpp sensor_msgs message_runtime

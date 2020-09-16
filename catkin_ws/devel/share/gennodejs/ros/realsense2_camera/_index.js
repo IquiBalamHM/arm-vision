@@ -1,0 +1,1 @@
+/home/pev/Documents/Arm_vision/catkin_ws/devel/.private/realsense2_camera/share/gennodejs/ros/realsense2_camera/_index.js

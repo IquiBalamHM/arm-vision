@@ -1,0 +1,1 @@
+/home/pev/Documents/Arm_vision/catkin_ws/devel/.private/my_pcl_tutorial/share/roseus/ros/my_pcl_tutorial/msg/SegmentedClustersArray.l

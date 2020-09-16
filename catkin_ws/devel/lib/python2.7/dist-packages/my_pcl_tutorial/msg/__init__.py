@@ -1,0 +1,1 @@
+/home/pev/Documents/Arm_vision/catkin_ws/devel/.private/my_pcl_tutorial/lib/python2.7/dist-packages/my_pcl_tutorial/msg/__init__.py
